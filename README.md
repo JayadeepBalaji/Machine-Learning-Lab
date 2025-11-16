@@ -7,6 +7,7 @@ Each script is self-contained and intended for learning and lab work.
 Folder Structure
 ----------------
 
+<pre>
 .
 ├── DATASETS/
 │   ├── Iris.csv
@@ -28,6 +29,7 @@ Folder Structure
     ├── Species-wise petal length by petal width.py
     ├── stats_basic.py
     └── stats_ulr.py
+</pre>
 
 What’s Included
 ---------------
